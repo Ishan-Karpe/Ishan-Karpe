@@ -1,14 +1,13 @@
 # Hi, I’m @Ishan-Karpe
-## I’m interested in coding...
+## Some ways that I spend my time are mostly coding in Python, also playing some racing games for fun, and I like cooking as well...
 ## I’m currently learning Python...
-## I’m looking to collaborate on Github...
 ## My email is ishan.k.abhijeet@gmail.com...
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6690b77e7fc121949a1bbd25?variant=dark)](https://roadmap.sh)
 
 # Certs:
-
 ![pcep-30-02-pcep-certified-entry-level-python-progra](https://github.com/user-attachments/assets/5fa7e5a0-0400-4188-860d-b39e5b1dc360)
+![pcap-31-03-pcap-certified-associate-python-programm](https://github.com/user-attachments/assets/85e60295-ffab-4040-80b4-b391dc9fe311)
 
 
 <!---
