@@ -1,7 +1,7 @@
 # Hi, I’m @Ishan-Karpe
 ## I'm a rising high school sophmore. Some ways that I spend my time are mostly coding in Python, also playing some racing games for fun, and I like cooking as well.
 ## I’m currently buliding stunning Python projects, and I'm learning Svelte and JavaScript
-## My email is ishan.k.abhijeet@gmail.com
+### My email is ishan.k.abhijeet@gmail.com
 
 # Certifications:
 ![pcep-30-02-pcep-certified-entry-level-python-progra](https://github.com/user-attachments/assets/5fa7e5a0-0400-4188-860d-b39e5b1dc360)
