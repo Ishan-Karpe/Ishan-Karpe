@@ -3,7 +3,7 @@
 ### I’m currently buliding stunning Python and JavaScript Projects, and I'm learning Svelte, SQL, and Java
 #### My email is ishan.k.abhijeet@gmail.com
 ##### Open to internship opportunities
-###### I currently have over 160 commits in 2025
+###### I currently have over 180 commits in 2025
 
 # Certifications:
 ![pcep-30-02-pcep-certified-entry-level-python-progra](https://github.com/user-attachments/assets/5fa7e5a0-0400-4188-860d-b39e5b1dc360)
