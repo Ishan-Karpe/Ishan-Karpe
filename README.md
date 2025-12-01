@@ -1,4 +1,4 @@
-# Hi, I’m @Ishan-Karpe
+# Hi, I’m Ishan
 ## I'm a high school sophomore. Some ways that I spend my time are mostly coding in Python, JavaScript, TypeScript, Frontend, also playing some racing games for fun, and I like cooking as well.
 ### I’m currently building stunning Python and Frontend Projects, and I'm learning Svelte, SQL, and Java
 #### My email is ishan.k.abhijeet@gmail.com
