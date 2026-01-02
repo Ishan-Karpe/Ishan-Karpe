@@ -2,7 +2,7 @@
 ## I'm a high school sophomore. Some ways that I spend my time are mostly coding in Python, JavaScript, TypeScript, Frontend, also playing some racing games for fun, and I like cooking as well.
 ### I’m currently building stunning Python and Frontend Projects, and I'm learning Svelte, SQL, and Java
 #### My email is ishan.k.abhijeet@gmail.com
-###### I have over 350 commits in 2025
+###### I had 373 commits in 2025 across 11 major projects and a couple of minor projects.
 
 # Certifications:
 ![pcep-30-02-pcep-certified-entry-level-python-progra](https://github.com/user-attachments/assets/5fa7e5a0-0400-4188-860d-b39e5b1dc360)
