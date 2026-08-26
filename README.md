@@ -1,7 +1,7 @@
 # Hi, I’m Ishan
 ## I'm a high school junior. Some ways that I spend my time are mostly coding in Python, JavaScript, TypeScript, Frontend, also playing some racing games for fun, and I like cooking as well.
 ### I’m currently doing Applied NLP Research with LLMs, measuring how often they lose safety-critical information in medical texts.
-#### My email is ishan.k.abhijeet@gmail.com
+#### My email is ishan.a.karpe@gmail.com
 ###### I had 373 commits in 2025 across 11 major projects and a couple of minor projects.
 
 # Certifications:
